@@ -15,8 +15,8 @@ AI图片描述助手，人脸检测+多模态描述
 - Gradio
 
 ## 演示视频
-[点击观看]([你的B站视频链接](https://www.bilibili.com/video/BV1ErwMz5E6i/?vd_source=4ced34d0d4d89e9976c8f4ce40386868))
-
+[点击观看]([你的B站视频链接])
+https://www.bilibili.com/video/BV1ErwMz5E6i/?vd_source=4ced34d0d4d89e9976c8f4ce40386868
 ## 使用方法
 1. 安装依赖：`pip install opencv-python gradio requests`
 2. 下载YuNet模型（已包含）
